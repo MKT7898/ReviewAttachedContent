@@ -1,0 +1,10 @@
+{
+  "description": "Explore attached content in a focused web experience that helps users quickly understand and engage with the information provided.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
